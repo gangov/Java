@@ -1,21 +1,40 @@
 package com.company;
 
-
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int[] my_array = {25, 14, 56, 15, 36, 56, 77, 18, 29, 49};
+        Scanner in = new Scanner(System.in);
 
-        System.out.println("Original Array : "+Arrays.toString(my_array));
+        long nCount = Integer.parseInt(in.nextLine());
+        long kSum = Integer.parseInt(in.nextLine());
 
-        // Remove the second element (index->1, value->14) of the array
-        int removeIndex = 1;
-
-        for(int i = removeIndex; i < my_array.length -1; i++){
-            my_array[i] = my_array[i + 1];
+        long[] numArr = new long[Math.toIntExact(nCount)];
+        numArr[0] = 1;
+        if (kSum == 0) {
+            System.out.println(0);
+            return;
         }
-// We cannot alter the size of an array , after the removal, the last and second last element in the array will exist twice
-        System.out.println("After removing the second element: "+Arrays.toString(my_array));
+        if (nCount > kSum) {
+            for (int i = 1; i < numArr.length; i++) {
+                long temp = 0;
+                if (i <= kSum) {
+                    for (long j = kSum; j >= 0; j--) {
+                        temp += numArr[Math.toIntExact(j)];
+                    }
+                } else {
+                    for (long k = i - kSum; k <= i; k++) {
+                        temp += numArr[Math.toIntExact(k)];
+                    }
+                }
+                numArr[i] = temp;
+            }
+        }
+
+        for (long num :
+                numArr) {
+            System.out.print(num + " ");
+        }
     }
 }
