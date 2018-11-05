@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d833645a-85b3-4f45-a132-266c5c3b3163" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapsLambdaStreamAPI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapsLambdaStreamAPI/MapsLambdaStreamAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapsLambdaStreamAPI/src/com/company/LabCountRealNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapsLambdaStreamAPI/src/com/company/LabLargestTreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapsLambdaStreamAPI/src/com/company/LabOddOccurances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapsLambdaStreamAPI/src/com/company/LabWordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapsLambdaStreamAPI/src/com/company/LabWordSynonyms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MapsLambdaStreamAPI/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BakingFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BakingMasterClas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BakingRush.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lists/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TestingStuffOut/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TestingStuffOut/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,43 +30,44 @@
     <session id="23753952">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12652" />
+          <entry key="java" value="15038" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12652" />
+          <entry key="JAVA" value="15038" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="343">
-              <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -66,8 +76,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Kata.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/com/company/BakingMasterClas.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/BakingRush.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="54" column="9" lean-forward="true" selection-end-line="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/BakingFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="471">
+              <caret line="33" column="29" selection-end-line="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -88,6 +126,9 @@
         <option value="$PROJECT_DIR$/src/CodeWars.java" />
         <option value="$PROJECT_DIR$/src/Kata.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BakingMasterClas.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BakingRush.java" />
+        <option value="$PROJECT_DIR$/src/com/company/BakingFactory.java" />
       </list>
     </option>
   </component>
@@ -103,15 +144,42 @@
     <option name="width" value="1552" />
     <option name="height" value="952" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TestingStuffOut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingStuffOut" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestingStuffOut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingStuffOut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestingStuffOut" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestingStuffOut" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539025295572" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540893821933" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -125,10 +193,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CodeWars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodeWars" />
+  <component name="RunManager" selected="Application.BakingFactory">
+    <configuration name="BakingFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BakingFactory" />
       <module name="TestingStuffOut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BakingMasterClas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BakingMasterClas" />
+      <module name="TestingStuffOut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BakingRush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BakingRush" />
+      <module name="TestingStuffOut" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -152,14 +252,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.CodeWars" />
       <item itemvalue="Application.Kata" />
+      <item itemvalue="Application.BakingMasterClas" />
+      <item itemvalue="Application.BakingRush" />
+      <item itemvalue="Application.BakingFactory" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BakingFactory" />
+        <item itemvalue="Application.BakingRush" />
+        <item itemvalue="Application.BakingMasterClas" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Kata" />
-        <item itemvalue="Application.CodeWars" />
       </list>
     </recent_temporary>
   </component>
@@ -178,9 +282,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="76" y="23" width="1552" height="952" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.23626374" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23576158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -221,7 +324,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
-          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -230,6 +333,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Kata.java">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BakingMasterClas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BakingRush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="54" column="9" lean-forward="true" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/BakingFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="33" column="29" selection-end-line="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
