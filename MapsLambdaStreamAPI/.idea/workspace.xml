@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed9e58f0-d943-4bbe-9a2d-4b70f97ecac9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ExerForceBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ObjectsAndClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestingStuffOut/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ExerForceBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ExerForceBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingStuffOut/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingStuffOut/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingStuffOut/out/production/TestingStuffOut/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingStuffOut/out/production/TestingStuffOut/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingStuffOut/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestingStuffOut/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,49 +17,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="714975526">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="2" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="35" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="35" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="12051" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="12051" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/ExerForceBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="65" lean-forward="true" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+            <state relative-caret-position="288">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -93,8 +61,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="24" />
+    <option name="y" value="29" />
     <option name="width" value="1561" />
     <option name="height" value="960" />
   </component>
@@ -106,6 +73,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,12 +96,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541525593052" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543441327221" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,7 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExerLegendaryFarming">
+  <component name="RunManager" selected="Application.ExerForceBook">
     <configuration name="ExerCompanyUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ExerCompanyUser" />
       <module name="MapsLambdaStreamAPI" />
@@ -161,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerCourses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ExerCourses" />
+    <configuration name="ExerForceBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ExerForceBook" />
       <module name="MapsLambdaStreamAPI" />
       <extension name="coverage">
         <pattern>
@@ -226,18 +196,18 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.ExerSoftUniParking" />
-      <item itemvalue="Application.ExerCourses" />
       <item itemvalue="Application.ExerStudentAcademy" />
       <item itemvalue="Application.ExerCompanyUser" />
       <item itemvalue="Application.ExerLegendaryFarming" />
+      <item itemvalue="Application.ExerForceBook" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExerForceBook" />
         <item itemvalue="Application.ExerLegendaryFarming" />
         <item itemvalue="Application.ExerSoftUniParking" />
         <item itemvalue="Application.ExerCompanyUser" />
         <item itemvalue="Application.ExerStudentAcademy" />
-        <item itemvalue="Application.ExerCourses" />
       </list>
     </recent_temporary>
   </component>
@@ -251,14 +221,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540851195273</updated>
+      <workItem from="1543402416354" duration="339000" />
+      <workItem from="1543440596978" duration="735000" />
+      <workItem from="1543501437941" duration="20000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1094000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="24" width="1561" height="960" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="29" width="1561" height="960" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.19444445" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19947334" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -276,6 +251,8 @@
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32949308" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,10 +261,12 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -427,10 +406,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MapsLambdaStreamAPI.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/ExerForceBook.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="65" lean-forward="true" selection-start-line="33" selection-start-column="65" selection-end-line="33" selection-end-column="65" />
+        <state relative-caret-position="288">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
